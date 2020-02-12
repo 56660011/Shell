@@ -1,2 +1,3 @@
-# Shell
-PowerShell For Admin
+# PowerShell For Admin
+
+Seespace mean Mornitor Space of server 
